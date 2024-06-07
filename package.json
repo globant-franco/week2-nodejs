@@ -1,0 +1,22 @@
+{
+  "name": "week2-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globant-franco/week2-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/globant-franco/week2-nodejs/issues"
+  },
+  "homepage": "https://github.com/globant-franco/week2-nodejs#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
